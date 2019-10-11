@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport './Button.css';\n\nconst button = props => __jsx(\"button\", {\n  disabled: props.disabled,\n  className: \"Button\",\n  onClick: props.clicked\n}, props.children);\n\nexport default button;","map":null,"metadata":{},"sourceType":"module"}

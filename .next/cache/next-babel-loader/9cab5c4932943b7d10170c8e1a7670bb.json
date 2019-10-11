@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport './Backdrop.css';\n\nvar backdrop = function backdrop(props) {\n  return props.show ? __jsx(\"div\", {\n    className: \"Backdrop\",\n    onClick: props.clicked\n  }) : null;\n};\n\nexport default backdrop;","map":null,"metadata":{},"sourceType":"module"}

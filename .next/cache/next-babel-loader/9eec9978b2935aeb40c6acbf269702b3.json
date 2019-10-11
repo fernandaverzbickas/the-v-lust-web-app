@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport './Spinner.module.css';\n\nconst spinner = props => __jsx(\"div\", {\n  className: \"Loader\"\n});\n\nexport default spinner;","map":null,"metadata":{},"sourceType":"module"}

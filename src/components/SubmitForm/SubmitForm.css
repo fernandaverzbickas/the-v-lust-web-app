@@ -1,0 +1,32 @@
+.submitIntro {
+    text-align: center;
+}
+
+.submitForm {
+    text-align: center;
+    margin-top: 20px;
+    display: grid;
+    justify-content: center;
+}
+
+.store {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 10px 0;
+}
+
+.storeLabel {
+    grid-column: 1 / 2;
+    text-align: left;
+    padding-right: 10px;
+}
+
+.storeInput {
+    grid-column: 2 / 3;
+    width: 100%;
+}
+
+.storeLook {
+    margin: 20px;
+}
+

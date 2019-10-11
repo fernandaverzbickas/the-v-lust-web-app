@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport Layout from '../../src/components/Layout/Layout';\nimport SubmitForm from '../../src/components/SubmitForm/SubmitForm';\n\nconst Submit = () => {\n  return __jsx(Layout, null, __jsx(SubmitForm, null));\n};\n\nexport default Submit;","map":null,"metadata":{},"sourceType":"module"}

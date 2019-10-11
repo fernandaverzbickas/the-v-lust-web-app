@@ -1,0 +1,55 @@
+a {
+    text-decoration: none;
+    color:black;
+}
+
+a:visited {
+    color: black;
+}
+
+@media (max-width: 499px) {
+    .navbar {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    }
+
+    .navItem {
+        display: grid;
+        text-align: center;
+        margin: 2px;
+    }
+
+    #Submit {
+        order: 2;
+        font-size: 0.65rem;
+    }
+
+    #Title {
+        order: 1;
+        grid-row: span 2;
+    }
+
+    #Results {
+        order: 3;
+        font-size: 0.65rem;
+    }
+}
+
+@media (min-width: 500px) {
+    .navbar {
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        background-color: white;
+        position: sticky;
+        top: 0;
+        z-index: 100;
+    }
+
+    .navItem {
+        display: inline-block;
+        width: 30%;
+        margin: 0;
+        vertical-align: middle;
+    }
+}
