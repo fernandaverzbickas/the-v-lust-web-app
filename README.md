@@ -6,7 +6,10 @@
 * [Technologies](#Technologies)
 
 # Introduction
-[V-LUST](https://the-v-lust.web.app/) is a website designed to help fashion e-commerce sites to increase its number of customers, sales and consequently its revenue. Each store post their own fashion look, featuring their outfits. Once the looks is submited, all fashion websites will compete to get the most number of votes. The ultimate goal is to reach the 'Top 10 Most Popular', where the user can purchase the look through its website.
+[V-LUST](https://the-v-lust.web.app/) is a website designed to help fashion e-commerce sites to increase its number of customers, sales and consequently its revenue. Each store post their own fashion look, featuring their outfits. Once the look is submitted, all fashion websites will compete to get the most number of votes. The ultimate goal is to reach the 'Top 10 Most Popular', where the user can purchase the look through its website.
+ 
+> "Style is something each of us already has, all we need to do is find it."
+  -- Diane von Furstenberg
 
 # Features
 
@@ -21,8 +24,6 @@ You can also:
   - Vote as many times as you want
   - Help people find the perfect look
 
-> "Style is something each of us already has, all we need to do is find it."
-  -- Diane von Furstenberg
 
 # Technologies
 
@@ -38,7 +39,7 @@ Also [V-LUST](https://the-v-lust.web.app/) itself is open source with a [public 
 
 ### Installation
 
-
+![ScreenShot](/screenshots/index.png)
 
 
 

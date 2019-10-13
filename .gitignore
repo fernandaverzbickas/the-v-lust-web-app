@@ -9,6 +9,7 @@ firebase-debug.log*
 .next
 out
 lib
+screenshots
 
 # Firebase cache
 .firebase/
