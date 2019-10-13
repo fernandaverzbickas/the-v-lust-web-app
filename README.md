@@ -7,6 +7,8 @@
 * [Features](#Features)
 * [Technologies](#Technologies)
 * [Website](#Website)
+* [Mobile Support](#Mobile)
+* [Todos](#Todos)
 
 # Introduction
 [V-LUST](https://the-v-lust.web.app/) is a website designed to help fashion e-commerce sites to increase its number of customers, sales and consequently its revenue. Each store post their own fashion look, featuring their outfits. Once the look is submitted, all fashion websites will compete to get the most number of votes. The ultimate goal is to reach the 'Top 10 Most Popular', where the user can purchase the look through its website.
@@ -74,9 +76,9 @@ After submitting, the user is redirected to all looks to take a vote.
 
 # Mobile Support
 
-![ScreenShot](/screenshots/responsive.PNG)
+![ScreenShot](/screenshots/responsive.png)
 
-### Todos
+# Todos
 
  - Write MORE Tests
  - Add Night Mode
