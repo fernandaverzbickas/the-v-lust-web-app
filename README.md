@@ -1,7 +1,7 @@
 <p align="center">
+    <a  href="https://the-v-lust.web.app">
   <img width="300" height="300" src="/screenshots/open.png"/><img />
-  <br />
-  <a  href="https://the-v-lust.web.app">LIVE DEMO</a>
+  </a>
 </p>
 
 
