@@ -1,6 +1,7 @@
-<div style="text-align:center">
-  <img width="300" height="300" src="/screenshots/open.png" href="https://the-v-lust.web.app"/>
-</div>
+<p align="center">
+  <img width="300" height="300" src="/screenshots/open.png" href="https://the-v-lust.web.app"/><img />
+</p>
+
 
 
 ### Table of contents
