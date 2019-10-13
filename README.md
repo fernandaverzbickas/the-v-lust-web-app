@@ -1,9 +1,12 @@
 # V-LUST
 
+**[LIVE DEMO](https://the-v-lust.web.app/)**
+
 ### Table of contents
 * [Introduction](#Introduction)
 * [Features](#Features)
 * [Technologies](#Technologies)
+* [Website](#Website)
 
 # Introduction
 [V-LUST](https://the-v-lust.web.app/) is a website designed to help fashion e-commerce sites to increase its number of customers, sales and consequently its revenue. Each store post their own fashion look, featuring their outfits. Once the look is submitted, all fashion websites will compete to get the most number of votes. The ultimate goal is to reach the 'Top 10 Most Popular', where the user can purchase the look through its website.
@@ -24,7 +27,6 @@ You can also:
   - Vote as many times as you want
   - Help people find the perfect look
 
-
 # Technologies
 
 [V-LUST](https://the-v-lust.web.app/) was developed with the following tools to work properly:
@@ -37,18 +39,44 @@ You can also:
 
 Also [V-LUST](https://the-v-lust.web.app/) itself is open source with a [public repository](https://github.com/fernandaverzbickas/the-v-lust-web-app) on [GitHub](https://github.com).
 
-### Installation
+# Website
 
+### Voting
+The landing page is where the votes happen! 
+ 
 ![ScreenShot](/screenshots/index.PNG)
+ 
+Every time the page is reloaded, the order of the looks change, so each looks has the same chance of appearing first. All looks are shown once scrolling down.
+ 
+![ScreenShot](/screenshots/index2.PNG)
+ 
+A vote is placed once the look its clicked on. A modal appears to thank the user for the vote and also redirects to 'Top 10 Most Popular'.  
 
+![ScreenShot](/screenshots/vote.PNG)
 
+### Top 10 Most Popular
 
+The top 10 most voted looks are show ordered by the highest number of votes. 
 
+![ScreenShot](/screenshots/top10.PNG)
 
+### Submit
+
+Ecommerce in the fashion business can submit their looks through the 'Submit Your Look' link.  
+
+![ScreenShot](/screenshots/submit.PNG)
+
+The submit button will only be available for clicking after it's fully filled and validated. It will also not validate if the user doesn't choose an image file.
+
+![ScreenShot](/screenshots/filled.PNG)
+
+After submitting, the user is redirected to all looks to take a vote.
+
+# Mobile Support
+
+![ScreenShot](/screenshots/responsive.PNG)
 
 ### Todos
 
  - Write MORE Tests
  - Add Night Mode
-
-
