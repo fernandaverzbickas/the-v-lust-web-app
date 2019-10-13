@@ -4,8 +4,9 @@
 
   [<img width="300" height="300" src="/screenshots/open.png">](https://the-v-lust.web.app/)
   
-  **[LIVE DEMO](https://the-v-lust.web.app/)**
 </p>
+
+**[LIVE DEMO](https://the-v-lust.web.app/)**
 
 ### Table of contents
 * [Introduction](#Introduction)
