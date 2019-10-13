@@ -1,5 +1,9 @@
 # V-LUST
 
+<p align="center">
+  <img width="300" height="300" src="/screenshots/open.png">
+</p>
+
 **[LIVE DEMO](https://the-v-lust.web.app/)**
 
 ### Table of contents
