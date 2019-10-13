@@ -1,12 +1,10 @@
 # V-LUST
 
+  [<img width="300" height="300" align="center" src="/screenshots/open.png">](https://the-v-lust.web.app/)
+
 <p align="center">
-
-  [<img width="300" height="300" src="/screenshots/open.png">](https://the-v-lust.web.app/)
-  
-</p>
-
 **[LIVE DEMO](https://the-v-lust.web.app/)**
+</p>
 
 ### Table of contents
 * [Introduction](#Introduction)
