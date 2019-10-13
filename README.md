@@ -39,7 +39,7 @@ Also [V-LUST](https://the-v-lust.web.app/) itself is open source with a [public 
 
 ### Installation
 
-![ScreenShot](/screenshots/index.png)
+![ScreenShot](/screenshots/index.PNG)
 
 
 
