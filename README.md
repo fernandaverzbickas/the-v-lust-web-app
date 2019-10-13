@@ -1,6 +1,6 @@
-[<p align="center">
-  <img width="300" height="300" src="/screenshots/open.png" href="https://the-v-lust.web.app"/><img />
-</p>](https://the-v-lust.web.app/)
+<p align="center" href="https://the-v-lust.web.app">
+  <img width="300" height="300" src="/screenshots/open.png"/><img />
+</p>
 
 
 
