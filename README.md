@@ -52,7 +52,7 @@ The landing page is where the votes happen!
  
 ![ScreenShot](/screenshots/index.PNG)
  
-Every time the page is reloaded, the order of the looks change, so each looks has the same chance of appearing first. All looks are shown once scrolling down.
+Every time the page is reloaded, the order of the looks change, so each look has the same chance of appearing first. All looks are shown once scrolling down.
  
 ![ScreenShot](/screenshots/index2.PNG)
  
