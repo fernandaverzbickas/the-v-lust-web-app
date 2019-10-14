@@ -84,9 +84,11 @@ After submitting, the user is redirected to all looks to take a vote.
 # To-dos
 
  - Add Cathegories
+    <br/> 
     *Each look submitted will fit into a categorie, such as 'Black and White', 'Beach wear', 'Prom'...*
     
  - Add User and Store Authentication
+    <br/> 
     *Limit 1 vote for each user in a category* 
 
  - Rank  looks, based on stars, from 0 to 5 instead of votes 
