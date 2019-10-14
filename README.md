@@ -18,8 +18,8 @@
 [V-LUST](https://the-v-lust.web.app/) is a website designed to help fashion e-commerce sites to increase its number of customers, sales and consequently its revenue. Each store post their own fashion look, featuring their outfits. Once the look is submitted, all fashion websites will compete to get the most number of votes. The ultimate goal is to reach the 'Top 10 Most Popular', where the user can purchase the look through its website.
  
 > "Style is something each of us already has, all we need to do is find it."
-
->  - Diane von Furstenberg
+>
+> Diane von Furstenberg
 
 # Features
 
