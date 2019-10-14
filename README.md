@@ -11,7 +11,7 @@
 * [Features](#Features)
 * [Technologies](#Technologies)
 * [Website](#Website)
-* [Mobile Support](#Mobile)
+* [Mobile](#Mobile) Support
 * [Todos](#Todos)
 
 # Introduction
@@ -43,7 +43,6 @@ You can also:
 * [Firebase 7.0.0](https://firebase.google.com) - cloud-hosted, NoSQL database. 
 * [Node.js 10.16.3](https://node.js.org) - javaScript runtime built on Chrome's V8 JavaScript engine
 
-Also [V-LUST](https://the-v-lust.web.app/) itself is open source with a [public repository](https://github.com/fernandaverzbickas/the-v-lust-web-app) on [GitHub](https://github.com).
 
 # Website
 
@@ -84,5 +83,10 @@ After submitting, the user is redirected to all looks to take a vote.
 
 # Todos
 
- - Write MORE Tests
- - Add Night Mode
+ - Add Cathegories
+    *Each look submitted will fit into a categorie, such as 'Black and White', 'Beach wear', 'Prom'...*
+    
+ - Add User and Store Authentication
+    *Limit 1 vote for each user in a category* 
+
+ - Rank  looks, based on stars, from 0 to 5 instead of votes 
