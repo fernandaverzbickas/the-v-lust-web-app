@@ -91,4 +91,6 @@ After submitting, the user is redirected to all looks to take a vote.
     <br/> 
     *Limit 1 vote for each user in a category* 
 
- - Rank  looks, based on stars, from 0 to 5 instead of votes 
+ - Rank  looks from 0 to 5 instead of votes 
+
+ - Let the user check out all looks submitted by a single store
