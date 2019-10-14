@@ -11,7 +11,7 @@
 * [Features](#Features)
 * [Technologies](#Technologies)
 * [Website](#Website)
-* [Mobile%20Support](#Mobile%20Suport) 
+* [Mobile](#Mobile) 
 * [Todos](#To-dos)
 
 # Introduction
@@ -77,7 +77,7 @@ The submit button will only be available for clicking after it's fully filled an
 
 After submitting, the user is redirected to all looks to take a vote.
 
-# Mobile Support
+# Mobile
 
 ![ScreenShot](/screenshots/responsive.png)
 
