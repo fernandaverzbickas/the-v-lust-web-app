@@ -23,6 +23,6 @@
     "react-infinite-scroll-component": "^4.5.3",
     "react-lazy-images": "^1.1.0",
     "react-router-dom": "^5.1.2",
-    "validator": "^11.1.0"
+    "validator": "^13.7.0"
   }
 }
