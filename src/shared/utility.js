@@ -35,7 +35,8 @@ export const checkValidity = (value, type)  => {
         }
         isValid = check(value) && isValid
     }
-        
+    
+    // teste
     
           
     return isValid
